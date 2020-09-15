@@ -1,2 +1,2 @@
 # Number-Guesser-CodeCademy
-CodeCademy project JavaScript function
+Projet JavaScript et les fonctions.
